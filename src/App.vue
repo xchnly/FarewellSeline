@@ -111,7 +111,7 @@ export default {
         { name: '进龙', initials: 'JL', position: '仓库' },
         { name: '豪俊', initials: 'HJ', position: 'PMC' },
         { name: '芳芳', initials: 'FF', position: 'PMC' },
-        { name: '资阳', initials: 'ZY', position: '船务' },
+        { name: '资杨', initials: 'ZY', position: '船务' },
         { name: 'Arthur', initials: 'AR', position: '船务' },
       ]
     }
