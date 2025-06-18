@@ -35,7 +35,7 @@
         <!-- Repeat for other corners -->
 
         <!-- Hero Section with floral pattern -->
-        <div class="bg-blue-600 p-8 text-white text-center relative overflow-hidden">
+        <div class="bg-pink-600 p-8 text-white text-center relative overflow-hidden">
           <div class="absolute top-0 left-0 w-full h-full opacity-10">
             <!-- Floral pattern background -->
             <div class="absolute top-4 right-8 w-16 h-16 text-white opacity-30">
